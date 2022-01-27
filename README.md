@@ -13,16 +13,16 @@ USER / PENGGUNA
 -ADMIN
 username : admin
 password : admin
-Fitur :
-~Surat Masuk
-~Surat Keluar
-~Laporan Surat Masuk
-~Laporsn Surat Keluar
+Hak Akses :
+-Surat Masuk
+-Surat Keluar
+-Laporan Surat Masuk
+-Laporsn Surat Keluar
 
 -PETUGAS
 
 username : petugas
 password : petugas
-Fitur : 
+Hak Akses: 
 - Laporan Surat Masuk
-- Laporna Surat Keluar
+- Laporan Surat Keluar
